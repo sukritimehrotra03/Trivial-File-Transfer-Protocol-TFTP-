@@ -1,0 +1,31 @@
+Robotics and exercise research wrapped up the week for the Expedition 72 crew aboard the International 
+Space Station. The orbital residents also tested a thigh cuff that may reverse space-caused fluid shifts
+ in astronauts and explored ways to prevent microbes from spreading on spacecraft.
+
+Removing space debris and servicing satellites in orbit are key objectives to promote the 
+commercialization of space. NASA is studying using robots as a way to perform these important 
+tasks and protect space-based infrastructure. Flight Engineers Don Pettit of NASA and Takuya 
+Onishi of JAXA (Japan Aerospace Exploration Agency) joined each other on Friday testing an 
+Astrobee robotic free-flyer outfitted with tentacle-like grippers. They monitored the cube 
+shaped Astrobee as it autonomously detected and maneuvered toward a “capture cube.” The
+ grippers, with gecko-like adhesive pads, then extended toward the test object and grappled 
+ it. Engineers are demonstrating the robotic technology’s capability to capture objects made 
+ of different materials and textures.
+
+Without Earth’s gravity impacting the human body, muscles and bones begin to atrophy since 
+astronauts aren’t attached to the ground and spend less energy moving around a spacecraft. 
+To offset those space-caused symptoms, as well as condition the cardiopulmonary system, 
+crews exercise two hours a day every day on a variety of machines. Scientists monitor 
+those workouts to understand how the body adapts to physical activity in microgravity
+ and ensure crews stay healthy during long duration missions. NASA Flight Engineer 
+ Nichole Ayers pedaled on an exercise cycle while attached to sensors and breathing 
+ gear measuring how her heart and lungs respond to working out in weightlessness. 
+ Doctors will use the data to learn how space affects aerobic capacity, improve 
+ space workouts, and prepare astronauts for strenuous tasks such as spacewalks.
+
+Ayers also joined Onishi as he wore a specialized thigh cuff that may change how 
+fluids flow in a crew member’s body preventing head and eye pressure during spaceflight. 
+Onishi wore electrodes on his chest while Ayers scanned his legs with the Ultrasound 2 device 
+measuring his blood flow to determine the effectiveness of the thigh cuffs. At the end of the 
+experiment, Onishi discussed the comfort, fit, and usability of the biomedical gear with a researcher 
+on the ground.
